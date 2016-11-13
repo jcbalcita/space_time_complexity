@@ -1,3 +1,3 @@
 # space_time_complexity
 
-Ruby projects completed as part of the App Academy curriculum.
+Ruby exercises with a focus on stacks, queues, and space-time complexity in general. Completed as part of the App Academy curriculum.
